@@ -1,0 +1,2 @@
+# MyGetProcAddress
+Wrapper MmGetSystemRoutineAddress 
